@@ -1,0 +1,2 @@
+# BCI_mindwave
+Neurosky 
